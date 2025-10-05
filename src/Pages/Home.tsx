@@ -3,14 +3,7 @@ import Category from "../Component/Category";
 import FoodList from "../Component/FoodList";
 import TopNavBar from "../Section/TopNavBar"
 import { Button } from "react-bootstrap";
-
-interface Filters {
-  spicy: string[];
-  foodtype: string[];
-  riceandnoodle: string[];
-  typeofmeat: string[];
-  averageprice: (number | string)[];
-}
+import type { Filters } from "../Types/food";
 
 function Home(){
   const [filters, setFilters] = useState<Filters>({
@@ -21,11 +14,15 @@ function Home(){
     averageprice: [],
   });
 
-  const [searchkey, setSearchKey] = useState(0);
+  const [searchKey, setSearchKey] = useState(0);
 
     useEffect(() => {
     console.log("현재 선택된 필터:", filters);
   }, [filters]);
+
+    useEffect(() =>{
+      console.log("횟수", searchKey)
+    }, [searchKey])
 
     return(
         <div>
@@ -35,7 +32,7 @@ function Home(){
             <Button variant="primary" onClick={() => setSearchKey((prev) => prev + 1)}>
                 검색 시작
             </Button>
-            {/* <FoodList filters={filters} searchkey={searchkey}/> */}
+            <FoodList filters={filters} searchKey={searchKey}/>
         </div>
     );
 }

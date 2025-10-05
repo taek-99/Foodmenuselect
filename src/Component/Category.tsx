@@ -1,15 +1,7 @@
-import { useEffect, useState } from "react";
-import { Container, Button } from "react-bootstrap";
+import { Container, } from "react-bootstrap";
 import ToggleButtons from "./ToggleButtons";
+import type { Filters } from "../Types/food";
 
-
-interface Filters {
-  spicy: string[];
-  foodtype: string[];
-  riceandnoodle: string[];
-  typeofmeat: string[];
-  averageprice: (number | string)[];
-}
 
 interface CategoryProps {
   value: Filters;
