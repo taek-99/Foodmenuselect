@@ -1,19 +1,28 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Container, Button } from "react-bootstrap";
 import ToggleButtons from "./ToggleButtons";
 
 
-function Category () {
-    const [filters, setFilters] = useState({
-        spicy: [],
-        cuisine: [],
-        foodtype: [],
-        riceandnoodle: [],
-    })
+interface Filters {
+  spicy: string[];
+  foodtype: string[];
+  riceandnoodle: string[];
+  typeofmeat: string[];
+  averageprice: (number | string)[];
+}
 
-    const handleGroupChange = (key: any) => (val: any) => {
-        setFilters((prev) => ({...prev, [key]: val}));
-    }
+interface CategoryProps {
+  value: Filters;
+  onChange: (next: Filters) => void;
+}
+
+
+function Category ({ value, onChange }: CategoryProps) {
+
+
+    const handleGroupChange =
+    <K extends keyof Filters>(key: K) =>
+    (val: Filters[K]) => onChange({ ...value, [key]: val });
 
     return (
         <Container>
@@ -27,7 +36,7 @@ function Category () {
                     { value: "china", label: "중식"},
                     { value: "usa", label: "양식"},
                 ]}
-                value={filters.foodtype}
+                value={value.foodtype}
                 onChange={handleGroupChange("foodtype")
                 }
                 variant="secondary"
@@ -41,7 +50,7 @@ function Category () {
                     { value: "medium", label: "중간"},
                     { value: "hot", label: "맵게"},
                 ]}
-                value={filters.spicy}
+                value={value.spicy}
                 onChange={handleGroupChange("spicy")
                 }
                 variant="secondary"
@@ -53,9 +62,10 @@ function Category () {
                 options={[
                     { value: "rice", label: "밥"},
                     { value: "noodle", label: "면"},
+                    { value: "bread", label: "빵"},
                     { value: "guiter", label: "그 외"},
                 ]}
-                value={filters.riceandnoodle}
+                value={value.riceandnoodle}
                 onChange={handleGroupChange("riceandnoodle")
                 }
                 variant="secondary"
@@ -71,8 +81,23 @@ function Category () {
                     { value: "meatguiter", label: "기타"},
                     { value: "vegan", label: "고기x"},
                 ]}
-                value={filters.foodtype}
-                onChange={handleGroupChange("foodtype")
+                value={value.typeofmeat}
+                onChange={handleGroupChange("typeofmeat")
+                }
+                variant="secondary"
+            />
+
+            <ToggleButtons
+                label="가격대"
+                idPrefix="averageprice"
+                options={[
+                    { value: 9999, label: "만원 이하"},
+                    { value: 10000, label: "만원 이상"},
+                    { value: 20000, label: "2만원 이상"},
+                    { value: 30000, label: "3만원 이상"},
+                ]}
+                value={value.averageprice}
+                onChange={handleGroupChange("averageprice")
                 }
                 variant="secondary"
             />

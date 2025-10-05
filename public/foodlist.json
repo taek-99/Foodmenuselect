@@ -1,0 +1,5002 @@
+[
+  {
+    "id": 1,
+    "name": "라볶이",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 2,
+    "name": "감자옹심이",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 3,
+    "name": "김치볶음밥",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "chicken",
+    "price": 30000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 4,
+    "name": "비빔냉면",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 5,
+    "name": "해물파전",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "간편하고 대중적으로 사랑받는 분식/면 메뉴."
+  },
+  {
+    "id": 6,
+    "name": "홍어무침",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 7,
+    "name": "동태찌개",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 8,
+    "name": "두부김치",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 10000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 9,
+    "name": "바지락칼국수",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 10,
+    "name": "감자조림",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 11,
+    "name": "두부김치",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 9999,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 12,
+    "name": "참치찌개",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 13,
+    "name": "콩나물국밥",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 14,
+    "name": "닭볶음탕",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 30000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 15,
+    "name": "곰탕",
+    "Category": "korea",
+    "spicy": "mild",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 16,
+    "name": "매운오돌뼈",
+    "Category": "korea",
+    "spicy": "hot",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 30000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 17,
+    "name": "비빔막국수",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "vegan",
+    "price": 30000,
+    "description": "간편하고 대중적으로 사랑받는 분식/면 메뉴."
+  },
+  {
+    "id": 18,
+    "name": "안동찜닭",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "chicken",
+    "price": 20000,
+    "description": "불맛과 양념의 조화가 매력인 한국식 메인."
+  },
+  {
+    "id": 19,
+    "name": "된장찌개",
+    "Category": "korea",
+    "spicy": "mild",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 9999,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 20,
+    "name": "떡만둣국",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 10000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 21,
+    "name": "낙지볶음",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "불맛과 양념의 조화가 매력인 한국식 메인."
+  },
+  {
+    "id": 22,
+    "name": "메밀전병",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 9999,
+    "description": "간편하고 대중적으로 사랑받는 분식/면 메뉴."
+  },
+  {
+    "id": 23,
+    "name": "양념갈비",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 10000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 24,
+    "name": "닭칼국수",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 25,
+    "name": "두루치기정식",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "불맛과 양념의 조화가 매력인 한국식 메인."
+  },
+  {
+    "id": 26,
+    "name": "닭꼬치",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 20000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 27,
+    "name": "오돌갈비",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 30000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 28,
+    "name": "회덮밥",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "vegan",
+    "price": 30000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 29,
+    "name": "육회비빔밥",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "vegan",
+    "price": 9999,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 30,
+    "name": "돼지갈비찜",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 10000,
+    "description": "불맛과 양념의 조화가 매력인 한국식 메인."
+  },
+  {
+    "id": 31,
+    "name": "광어물회",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 32,
+    "name": "도토리묵무침",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 9999,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 33,
+    "name": "청국장",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 20000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 34,
+    "name": "쭈꾸미볶음",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 30000,
+    "description": "불맛과 양념의 조화가 매력인 한국식 메인."
+  },
+  {
+    "id": 35,
+    "name": "시래기국",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 36,
+    "name": "쭈꾸미덮밥",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "vegan",
+    "price": 20000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 37,
+    "name": "닭곰탕",
+    "Category": "korea",
+    "spicy": "mild",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 30000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 38,
+    "name": "도가니수육",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 39,
+    "name": "김밥",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "pig",
+    "price": 30000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 40,
+    "name": "오돌뼈볶음",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "불맛과 양념의 조화가 매력인 한국식 메인."
+  },
+  {
+    "id": 41,
+    "name": "짜글이",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 42,
+    "name": "감자탕",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 20000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 43,
+    "name": "함흥냉면",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "chicken",
+    "price": 30000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 44,
+    "name": "갈치조림",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 9999,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 45,
+    "name": "새우튀김김밥",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 46,
+    "name": "닭발",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 47,
+    "name": "쫄면",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "간편하고 대중적으로 사랑받는 분식/면 메뉴."
+  },
+  {
+    "id": 48,
+    "name": "소머리국밥",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "cow",
+    "price": 9999,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 49,
+    "name": "추어튀김",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 9999,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 50,
+    "name": "부대찌개",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 20000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 51,
+    "name": "육개장",
+    "Category": "korea",
+    "spicy": "hot",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 52,
+    "name": "고등어조림",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 9999,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 53,
+    "name": "해장라면",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "chicken",
+    "price": 20000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 54,
+    "name": "제육두루치기",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 10000,
+    "description": "불맛과 양념의 조화가 매력인 한국식 메인."
+  },
+  {
+    "id": 55,
+    "name": "보쌈",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 9999,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 56,
+    "name": "볶음밥",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 57,
+    "name": "닭껍질튀김",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 20000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 58,
+    "name": "황태해장국",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 20000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 59,
+    "name": "무전",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 20000,
+    "description": "간편하고 대중적으로 사랑받는 분식/면 메뉴."
+  },
+  {
+    "id": 60,
+    "name": "새우볶음밥",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 61,
+    "name": "돼지불백",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 9999,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 62,
+    "name": "돼지갈비찜",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 10000,
+    "description": "불맛과 양념의 조화가 매력인 한국식 메인."
+  },
+  {
+    "id": 63,
+    "name": "불고기",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 10000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 64,
+    "name": "평양냉면",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 65,
+    "name": "매운갈비찜",
+    "Category": "korea",
+    "spicy": "hot",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 30000,
+    "description": "불맛과 양념의 조화가 매력인 한국식 메인."
+  },
+  {
+    "id": 66,
+    "name": "산채비빔밥",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "vegan",
+    "price": 20000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 67,
+    "name": "순두부찌개",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 20000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 68,
+    "name": "감자전",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 10000,
+    "description": "간편하고 대중적으로 사랑받는 분식/면 메뉴."
+  },
+  {
+    "id": 69,
+    "name": "오징어덮밥",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 70,
+    "name": "꼬막무침",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 71,
+    "name": "돌솥비빔밥",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "vegan",
+    "price": 20000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 72,
+    "name": "버섯전골",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 73,
+    "name": "참치마요덮밥",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 74,
+    "name": "곱도리탕",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 20000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 75,
+    "name": "계란말이",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 76,
+    "name": "참치김치볶음밥",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 77,
+    "name": "우렁쌈장정식",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 78,
+    "name": "곤드레밥",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 79,
+    "name": "쫄면",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "meatguiter",
+    "price": 9999,
+    "description": "간편하고 대중적으로 사랑받는 분식/면 메뉴."
+  },
+  {
+    "id": 80,
+    "name": "산낙지",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 81,
+    "name": "코다리강정",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 9999,
+    "description": "불맛과 양념의 조화가 매력인 한국식 메인."
+  },
+  {
+    "id": 82,
+    "name": "버섯불고기전골",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 83,
+    "name": "곱창전골",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 10000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 84,
+    "name": "고추전",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 30000,
+    "description": "간편하고 대중적으로 사랑받는 분식/면 메뉴."
+  },
+  {
+    "id": 85,
+    "name": "홍어무침",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 20000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 86,
+    "name": "홍합탕",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 20000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 87,
+    "name": "수제비",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 30000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 88,
+    "name": "김치전",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "간편하고 대중적으로 사랑받는 분식/면 메뉴."
+  },
+  {
+    "id": 89,
+    "name": "김치찌개",
+    "Category": "korea",
+    "spicy": "hot",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 20000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 90,
+    "name": "산낙지",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 20000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 91,
+    "name": "닭꼬치",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 92,
+    "name": "도가니탕",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 93,
+    "name": "꽃게탕",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 30000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 94,
+    "name": "녹두전",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "간편하고 대중적으로 사랑받는 분식/면 메뉴."
+  },
+  {
+    "id": 95,
+    "name": "돼지불백",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 10000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 96,
+    "name": "한치물회",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 97,
+    "name": "닭백숙",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 20000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 98,
+    "name": "불닭",
+    "Category": "korea",
+    "spicy": "hot",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 20000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 99,
+    "name": "비빔막국수",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "간편하고 대중적으로 사랑받는 분식/면 메뉴."
+  },
+  {
+    "id": 100,
+    "name": "어묵볶음",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "불맛과 양념의 조화가 매력인 한국식 메인."
+  },
+  {
+    "id": 101,
+    "name": "뼈해장국",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 20000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 102,
+    "name": "우렁쌈장정식",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 103,
+    "name": "시래기된장국",
+    "Category": "korea",
+    "spicy": "mild",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 30000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 104,
+    "name": "비빔국수",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "meatguiter",
+    "price": 9999,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 105,
+    "name": "닭갈비덮밥",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "pig",
+    "price": 30000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 106,
+    "name": "부추전",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 10000,
+    "description": "간편하고 대중적으로 사랑받는 분식/면 메뉴."
+  },
+  {
+    "id": 107,
+    "name": "감자옹심이",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 30000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 108,
+    "name": "콩비지찌개",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 109,
+    "name": "돈까스김밥",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "pig",
+    "price": 30000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 110,
+    "name": "튀김모둠",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 9999,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 111,
+    "name": "제육덮밥",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "pig",
+    "price": 10000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 112,
+    "name": "닭내장탕",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 113,
+    "name": "순대볶음",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 9999,
+    "description": "불맛과 양념의 조화가 매력인 한국식 메인."
+  },
+  {
+    "id": 114,
+    "name": "물냉면",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "vegan",
+    "price": 30000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 115,
+    "name": "항정살구이",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 20000,
+    "description": "불맛과 양념의 조화가 매력인 한국식 메인."
+  },
+  {
+    "id": 116,
+    "name": "시래기국",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 20000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 117,
+    "name": "고추전",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 9999,
+    "description": "간편하고 대중적으로 사랑받는 분식/면 메뉴."
+  },
+  {
+    "id": 118,
+    "name": "닭강정",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 20000,
+    "description": "불맛과 양념의 조화가 매력인 한국식 메인."
+  },
+  {
+    "id": 119,
+    "name": "회막국수",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "간편하고 대중적으로 사랑받는 분식/면 메뉴."
+  },
+  {
+    "id": 120,
+    "name": "치즈김밥",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "pig",
+    "price": 9999,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 121,
+    "name": "바지락칼국수",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 122,
+    "name": "순대볶음",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 30000,
+    "description": "불맛과 양념의 조화가 매력인 한국식 메인."
+  },
+  {
+    "id": 123,
+    "name": "매운갈비찜",
+    "Category": "korea",
+    "spicy": "hot",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 10000,
+    "description": "불맛과 양념의 조화가 매력인 한국식 메인."
+  },
+  {
+    "id": 124,
+    "name": "물회",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 20000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 125,
+    "name": "김치수제비",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 30000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 126,
+    "name": "도미 사시미",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 127,
+    "name": "가츠산도(히레)",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 9999,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 128,
+    "name": "돈코츠라멘",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "noodle",
+    "meat": "pig",
+    "price": 9999,
+    "description": "일본식 육수와 면발의 조화가 돋보이는 면요리."
+  },
+  {
+    "id": 129,
+    "name": "우니동",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "chicken",
+    "price": 30000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 130,
+    "name": "샤브샤브(일식)",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 131,
+    "name": "니쿠자가",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 30000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 132,
+    "name": "연어 사시미",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 133,
+    "name": "샤브샤브(일식)",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 30000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 134,
+    "name": "탄탄멘",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 135,
+    "name": "차슈멘",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 20000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 136,
+    "name": "장어초밥",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 137,
+    "name": "시오라멘(니보시)",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "noodle",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "일본식 육수와 면발의 조화가 돋보이는 면요리."
+  },
+  {
+    "id": 138,
+    "name": "캘리포니아 크런치롤",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 10000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 139,
+    "name": "문어초밥",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 9999,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 140,
+    "name": "치킨난반 정식",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 141,
+    "name": "츠케멘",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 20000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 142,
+    "name": "규탄동",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "cow",
+    "price": 20000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 143,
+    "name": "교카이돈코츠라멘",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "noodle",
+    "meat": "pig",
+    "price": 10000,
+    "description": "일본식 육수와 면발의 조화가 돋보이는 면요리."
+  },
+  {
+    "id": 144,
+    "name": "와규 스키야키",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 20000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 145,
+    "name": "특선 초밥",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 146,
+    "name": "차슈멘",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 147,
+    "name": "스파이시 연어롤",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 148,
+    "name": "규카츠정식",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 20000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 149,
+    "name": "소유라멘",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "cow",
+    "price": 10000,
+    "description": "일본식 육수와 면발의 조화가 돋보이는 면요리."
+  },
+  {
+    "id": 150,
+    "name": "특선 초밥",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 151,
+    "name": "와카메우동",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "noodle",
+    "meat": "meatguiter",
+    "price": 9999,
+    "description": "일본식 육수와 면발의 조화가 돋보이는 면요리."
+  },
+  {
+    "id": 152,
+    "name": "시오라멘",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "noodle",
+    "meat": "pig",
+    "price": 30000,
+    "description": "일본식 육수와 면발의 조화가 돋보이는 면요리."
+  },
+  {
+    "id": 153,
+    "name": "새우초밥",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 154,
+    "name": "치킨난반",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 30000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 155,
+    "name": "타마고야키",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 156,
+    "name": "규동",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "cow",
+    "price": 30000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 157,
+    "name": "스파이더롤",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 20000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 158,
+    "name": "텐자루소바",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "cow",
+    "price": 20000,
+    "description": "일본식 육수와 면발의 조화가 돋보이는 면요리."
+  },
+  {
+    "id": 159,
+    "name": "광어 사시미",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 160,
+    "name": "유자시오라멘",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "noodle",
+    "meat": "meatguiter",
+    "price": 9999,
+    "description": "일본식 육수와 면발의 조화가 돋보이는 면요리."
+  },
+  {
+    "id": 161,
+    "name": "연어 이쿠라동",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 162,
+    "name": "히레카츠",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 30000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 163,
+    "name": "오코노미야키",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 30000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 164,
+    "name": "규스지카레",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 20000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 165,
+    "name": "치킨가츠동",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 166,
+    "name": "연어아보카도로",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 167,
+    "name": "차슈덮밥",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "cow",
+    "price": 20000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 168,
+    "name": "오므라이스(일식)",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "rice",
+    "meat": "cow",
+    "price": 20000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 169,
+    "name": "레인보우롤",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 10000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 170,
+    "name": "가리비 사시미",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 171,
+    "name": "가라아게",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 172,
+    "name": "모듬초밥",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 173,
+    "name": "사케마끼",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 20000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 174,
+    "name": "고등어초밥",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 175,
+    "name": "히레카츠",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 30000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 176,
+    "name": "스키야키",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 177,
+    "name": "니기리 모둠",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 178,
+    "name": "필라델피아롤",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 9999,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 179,
+    "name": "필라델피아롤",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 30000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 180,
+    "name": "로스카츠",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 181,
+    "name": "냉소바",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "cow",
+    "price": 10000,
+    "description": "일본식 육수와 면발의 조화가 돋보이는 면요리."
+  },
+  {
+    "id": 182,
+    "name": "연어초밥",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 9999,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 183,
+    "name": "캘리포니아 크런치롤",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 184,
+    "name": "토리파이탄라멘",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "vegan",
+    "price": 9999,
+    "description": "일본식 육수와 면발의 조화가 돋보이는 면요리."
+  },
+  {
+    "id": 185,
+    "name": "가츠카츠(히레)",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 9999,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 186,
+    "name": "멘치카츠",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 30000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 187,
+    "name": "참치 사시미",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 188,
+    "name": "규탄동",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "cow",
+    "price": 10000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 189,
+    "name": "카츠산도",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 10000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 190,
+    "name": "미소라멘",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "cow",
+    "price": 20000,
+    "description": "일본식 육수와 면발의 조화가 돋보이는 면요리."
+  },
+  {
+    "id": 191,
+    "name": "미소시루정식",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 20000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 192,
+    "name": "야키토리",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 193,
+    "name": "가케소바",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "cow",
+    "price": 30000,
+    "description": "일본식 육수와 면발의 조화가 돋보이는 면요리."
+  },
+  {
+    "id": 194,
+    "name": "스파이더롤",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 20000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 195,
+    "name": "가츠카츠(히레)",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 196,
+    "name": "타마고야키",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 197,
+    "name": "연어 사시미 정식",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 198,
+    "name": "교자",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 199,
+    "name": "카레우동",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "noodle",
+    "meat": "pig",
+    "price": 10000,
+    "description": "일본식 육수와 면발의 조화가 돋보이는 면요리."
+  },
+  {
+    "id": 200,
+    "name": "미소라멘(진한)",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "cow",
+    "price": 10000,
+    "description": "일본식 육수와 면발의 조화가 돋보이는 면요리."
+  },
+  {
+    "id": 201,
+    "name": "로스카츠",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 9999,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 202,
+    "name": "연어 사시미 정식",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 203,
+    "name": "에비동",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 204,
+    "name": "니기리 모둠",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 205,
+    "name": "우나기동",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 206,
+    "name": "텐푸라우동",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "noodle",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "일본식 육수와 면발의 조화가 돋보이는 면요리."
+  },
+  {
+    "id": 207,
+    "name": "광어초밥",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 208,
+    "name": "치킨난반 정식",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 20000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 209,
+    "name": "드래곤롤",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 10000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 210,
+    "name": "에비후라이",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 10000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 211,
+    "name": "새우튀김롤",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 9999,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 212,
+    "name": "참치 사시미 정식",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 213,
+    "name": "스파이시튜나롤",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 9999,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 214,
+    "name": "자루소바",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "cow",
+    "price": 20000,
+    "description": "일본식 육수와 면발의 조화가 돋보이는 면요리."
+  },
+  {
+    "id": 215,
+    "name": "참치 사시미 정식",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 9999,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 216,
+    "name": "초밥",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 217,
+    "name": "스파이시 연어롤",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 218,
+    "name": "타코야키",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 30000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 219,
+    "name": "우니동",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 220,
+    "name": "교자(일식)",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 221,
+    "name": "텐동",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "vegan",
+    "price": 30000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 222,
+    "name": "계란초밥",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 223,
+    "name": "야끼니꾸정식",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 10000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 224,
+    "name": "오야코동",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 225,
+    "name": "시오라멘(니보시)",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "noodle",
+    "meat": "vegan",
+    "price": 20000,
+    "description": "일본식 육수와 면발의 조화가 돋보이는 면요리."
+  },
+  {
+    "id": 226,
+    "name": "미소라멘(진한)",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "cow",
+    "price": 20000,
+    "description": "일본식 육수와 면발의 조화가 돋보이는 면요리."
+  },
+  {
+    "id": 227,
+    "name": "후토마끼",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 9999,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 228,
+    "name": "가츠카레",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 229,
+    "name": "사케동",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "pig",
+    "price": 30000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 230,
+    "name": "크런치롤",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 20000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 231,
+    "name": "와규 스키야키",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 30000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 232,
+    "name": "도미초밥",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 233,
+    "name": "차슈덮밥",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 9999,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 234,
+    "name": "가츠동",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 235,
+    "name": "소유라멘",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "cow",
+    "price": 30000,
+    "description": "일본식 육수와 면발의 조화가 돋보이는 면요리."
+  },
+  {
+    "id": 236,
+    "name": "타누키우동",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "noodle",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "일본식 육수와 면발의 조화가 돋보이는 면요리."
+  },
+  {
+    "id": 237,
+    "name": "키츠네우동",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "noodle",
+    "meat": "cow",
+    "price": 10000,
+    "description": "일본식 육수와 면발의 조화가 돋보이는 면요리."
+  },
+  {
+    "id": 238,
+    "name": "장어 구이(일식)",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 9999,
+    "description": "불맛과 양념의 조화가 매력인 한국식 메인."
+  },
+  {
+    "id": 239,
+    "name": "카라이미소라멘",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "cow",
+    "price": 10000,
+    "description": "일본식 육수와 면발의 조화가 돋보이는 면요리."
+  },
+  {
+    "id": 240,
+    "name": "사시미정식",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 241,
+    "name": "가츠산도(히레)",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 30000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 242,
+    "name": "오니기리(연어)",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 243,
+    "name": "캘리포니아롤",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 244,
+    "name": "교자",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 245,
+    "name": "참치초밥",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 9999,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 246,
+    "name": "가리비초밥",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "식초밥과 신선한 재료의 조화가 좋은 일식 메뉴."
+  },
+  {
+    "id": 247,
+    "name": "오니기리(참치마요)",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 248,
+    "name": "니쿠우동",
+    "Category": "japan",
+    "spicy": "mild",
+    "rice": "noodle",
+    "meat": "cow",
+    "price": 20000,
+    "description": "일본식 육수와 면발의 조화가 돋보이는 면요리."
+  },
+  {
+    "id": 249,
+    "name": "쇼유라멘",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "일본식 육수와 면발의 조화가 돋보이는 면요리."
+  },
+  {
+    "id": 250,
+    "name": "연어 이쿠라동",
+    "Category": "japan",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "정통 일본식 조리법으로 즐기는 인기 메뉴."
+  },
+  {
+    "id": 251,
+    "name": "사천식두부",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 20000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 252,
+    "name": "해물볶음면",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "중식 특유의 향과 불맛이 살아있는 면요리."
+  },
+  {
+    "id": 253,
+    "name": "기스면",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "chicken",
+    "price": 20000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 254,
+    "name": "토마토새우",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 9999,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 255,
+    "name": "멘보샤",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 256,
+    "name": "사천탕면",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "pig",
+    "price": 30000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 257,
+    "name": "궁보계정",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 30000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 258,
+    "name": "마라비빔면",
+    "Category": "china",
+    "spicy": "hot",
+    "rice": "noodle",
+    "meat": "cow",
+    "price": 30000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 259,
+    "name": "우육탕",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 30000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 260,
+    "name": "어향두부",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 261,
+    "name": "깐풍새우",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "강한 화력과 소스의 맛을 살린 정통 중식 메뉴."
+  },
+  {
+    "id": 262,
+    "name": "게살볶음밥",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 263,
+    "name": "라조기",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 30000,
+    "description": "강한 화력과 소스의 맛을 살린 정통 중식 메뉴."
+  },
+  {
+    "id": 264,
+    "name": "홍샤오로우",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 20000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 265,
+    "name": "베이징덕",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 266,
+    "name": "홍유초면",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 267,
+    "name": "사천식 어향가지",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 9999,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 268,
+    "name": "차오펀",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 269,
+    "name": "유린기",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 9999,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 270,
+    "name": "짜장밥",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "중식 특유의 향과 불맛이 살아있는 면요리."
+  },
+  {
+    "id": 271,
+    "name": "깐풍기",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 30000,
+    "description": "강한 화력과 소스의 맛을 살린 정통 중식 메뉴."
+  },
+  {
+    "id": 272,
+    "name": "해물누룽지탕",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 273,
+    "name": "마라어묵",
+    "Category": "china",
+    "spicy": "hot",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 20000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 274,
+    "name": "마늘쫑소고기볶음",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 9999,
+    "description": "불맛과 양념의 조화가 매력인 한국식 메인."
+  },
+  {
+    "id": 275,
+    "name": "차슈볶음밥(중식)",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "pig",
+    "price": 10000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 276,
+    "name": "마라새우",
+    "Category": "china",
+    "spicy": "hot",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 277,
+    "name": "하가우",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 278,
+    "name": "고추기름면",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 279,
+    "name": "탄탄면",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "중식 특유의 향과 불맛이 살아있는 면요리."
+  },
+  {
+    "id": 280,
+    "name": "마늘소스오징어",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 20000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 281,
+    "name": "계란볶음면",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "vegan",
+    "price": 20000,
+    "description": "중식 특유의 향과 불맛이 살아있는 면요리."
+  },
+  {
+    "id": 282,
+    "name": "새우칠리",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 283,
+    "name": "토마토계란탕",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 20000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 284,
+    "name": "새우볶음밥",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 285,
+    "name": "짜장면",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "cow",
+    "price": 9999,
+    "description": "중식 특유의 향과 불맛이 살아있는 면요리."
+  },
+  {
+    "id": 286,
+    "name": "계란토마토볶음",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 20000,
+    "description": "불맛과 양념의 조화가 매력인 한국식 메인."
+  },
+  {
+    "id": 287,
+    "name": "라조육",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 10000,
+    "description": "강한 화력과 소스의 맛을 살린 정통 중식 메뉴."
+  },
+  {
+    "id": 288,
+    "name": "고추잡채",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 289,
+    "name": "마늘소스오징어",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 10000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 290,
+    "name": "팔보채",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 20000,
+    "description": "강한 화력과 소스의 맛을 살린 정통 중식 메뉴."
+  },
+  {
+    "id": 291,
+    "name": "훠궈",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 10000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 292,
+    "name": "완탕면",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 293,
+    "name": "유린새우",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 294,
+    "name": "사천우육면",
+    "Category": "china",
+    "spicy": "mild",
+    "rice": "noodle",
+    "meat": "cow",
+    "price": 30000,
+    "description": "중식 특유의 향과 불맛이 살아있는 면요리."
+  },
+  {
+    "id": 295,
+    "name": "마라어묵",
+    "Category": "china",
+    "spicy": "hot",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 20000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 296,
+    "name": "마라탕",
+    "Category": "china",
+    "spicy": "hot",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 297,
+    "name": "사천탕수육",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "강한 화력과 소스의 맛을 살린 정통 중식 메뉴."
+  },
+  {
+    "id": 298,
+    "name": "토마토새우",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 299,
+    "name": "돼지고기볶음밥",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "pig",
+    "price": 10000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 300,
+    "name": "새우완자",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 9999,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 301,
+    "name": "마장면",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 302,
+    "name": "차슈덮밥(중식)",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 303,
+    "name": "샤오롱바오",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 9999,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 304,
+    "name": "돼지고기볶음면",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "pig",
+    "price": 10000,
+    "description": "중식 특유의 향과 불맛이 살아있는 면요리."
+  },
+  {
+    "id": 305,
+    "name": "마늘소스새우",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 10000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 306,
+    "name": "사천식 어향가지",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 10000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 307,
+    "name": "군만두(중식)",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 308,
+    "name": "사천탕면",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "chicken",
+    "price": 20000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 309,
+    "name": "난자완스",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 20000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 310,
+    "name": "돼지고기볶음밥",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "pig",
+    "price": 20000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 311,
+    "name": "송이쇠고기볶음",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 30000,
+    "description": "불맛과 양념의 조화가 매력인 한국식 메인."
+  },
+  {
+    "id": 312,
+    "name": "어향가지",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 9999,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 313,
+    "name": "마장면",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "chicken",
+    "price": 20000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 314,
+    "name": "차오메인",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 315,
+    "name": "잡채밥(중식)",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 316,
+    "name": "마라비빔면",
+    "Category": "china",
+    "spicy": "hot",
+    "rice": "noodle",
+    "meat": "cow",
+    "price": 30000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 317,
+    "name": "지삼선",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 318,
+    "name": "마라샹궈",
+    "Category": "china",
+    "spicy": "hot",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 10000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 319,
+    "name": "깐쇼새우",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 9999,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 320,
+    "name": "꿔바로우(두툼)",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 20000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 321,
+    "name": "계란볶음밥",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "cow",
+    "price": 20000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 322,
+    "name": "새우칠리",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 323,
+    "name": "해파리냉채",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 30000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 324,
+    "name": "칠리새우",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 325,
+    "name": "마파두부",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 30000,
+    "description": "강한 화력과 소스의 맛을 살린 정통 중식 메뉴."
+  },
+  {
+    "id": 326,
+    "name": "마늘쫑소고기볶음",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 10000,
+    "description": "불맛과 양념의 조화가 매력인 한국식 메인."
+  },
+  {
+    "id": 327,
+    "name": "삼선짬뽕",
+    "Category": "china",
+    "spicy": "hot",
+    "rice": "noodle",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "중식 특유의 향과 불맛이 살아있는 면요리."
+  },
+  {
+    "id": 328,
+    "name": "유린새우",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 9999,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 329,
+    "name": "꿔바로우(두툼)",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 330,
+    "name": "우육탕면",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "cow",
+    "price": 10000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 331,
+    "name": "해물볶음밥",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 332,
+    "name": "산라탕",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 30000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 333,
+    "name": "마라면",
+    "Category": "china",
+    "spicy": "hot",
+    "rice": "noodle",
+    "meat": "vegan",
+    "price": 9999,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 334,
+    "name": "어향두부",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 335,
+    "name": "삼선짜장",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "중식 특유의 향과 불맛이 살아있는 면요리."
+  },
+  {
+    "id": 336,
+    "name": "잡채밥(중식)",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "pig",
+    "price": 10000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 337,
+    "name": "지징면",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "meatguiter",
+    "price": 9999,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 338,
+    "name": "쇠고기볶음면",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "cow",
+    "price": 20000,
+    "description": "중식 특유의 향과 불맛이 살아있는 면요리."
+  },
+  {
+    "id": 339,
+    "name": "쇠고기누룽지탕",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 30000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 340,
+    "name": "춘권",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 20000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 341,
+    "name": "어향육사",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 30000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 342,
+    "name": "우육탕면",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "cow",
+    "price": 10000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 343,
+    "name": "홍유초면",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "pig",
+    "price": 10000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 344,
+    "name": "해물누룽지탕",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 345,
+    "name": "마늘소스새우",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 30000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 346,
+    "name": "궁보계정",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 30000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 347,
+    "name": "게살볶음밥",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 348,
+    "name": "짬뽕",
+    "Category": "china",
+    "spicy": "hot",
+    "rice": "noodle",
+    "meat": "vegan",
+    "price": 30000,
+    "description": "중식 특유의 향과 불맛이 살아있는 면요리."
+  },
+  {
+    "id": 349,
+    "name": "양꼬치",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 30000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 350,
+    "name": "양주볶음밥",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 351,
+    "name": "깐풍가지",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 20000,
+    "description": "강한 화력과 소스의 맛을 살린 정통 중식 메뉴."
+  },
+  {
+    "id": 352,
+    "name": "깐풍버섯",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 9999,
+    "description": "강한 화력과 소스의 맛을 살린 정통 중식 메뉴."
+  },
+  {
+    "id": 353,
+    "name": "야채볶음면",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "vegan",
+    "price": 20000,
+    "description": "중식 특유의 향과 불맛이 살아있는 면요리."
+  },
+  {
+    "id": 354,
+    "name": "중화냉면",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "vegan",
+    "price": 30000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 355,
+    "name": "꿔바로우",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 356,
+    "name": "깐풍가지",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 10000,
+    "description": "강한 화력과 소스의 맛을 살린 정통 중식 메뉴."
+  },
+  {
+    "id": 357,
+    "name": "샤오마이",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 9999,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 358,
+    "name": "탕수육",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 20000,
+    "description": "강한 화력과 소스의 맛을 살린 정통 중식 메뉴."
+  },
+  {
+    "id": 359,
+    "name": "우육면",
+    "Category": "china",
+    "spicy": "mild",
+    "rice": "noodle",
+    "meat": "cow",
+    "price": 20000,
+    "description": "중식 특유의 향과 불맛이 살아있는 면요리."
+  },
+  {
+    "id": 360,
+    "name": "깐풍버섯",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 20000,
+    "description": "강한 화력과 소스의 맛을 살린 정통 중식 메뉴."
+  },
+  {
+    "id": 361,
+    "name": "유산슬",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 20000,
+    "description": "강한 화력과 소스의 맛을 살린 정통 중식 메뉴."
+  },
+  {
+    "id": 362,
+    "name": "지징면",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "cow",
+    "price": 10000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 363,
+    "name": "차슈볶음밥(중식)",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "rice",
+    "meat": "cow",
+    "price": 9999,
+    "description": "밥을 중심으로 고명과 소스를 더해 든든하게 즐기는 요리."
+  },
+  {
+    "id": 364,
+    "name": "쇠고기누룽지탕",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 10000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 365,
+    "name": "짬뽕밥",
+    "Category": "china",
+    "spicy": "hot",
+    "rice": "noodle",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "중식 특유의 향과 불맛이 살아있는 면요리."
+  },
+  {
+    "id": 366,
+    "name": "기스면",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "cow",
+    "price": 10000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 367,
+    "name": "간풍계",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 368,
+    "name": "난자완스",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 9999,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 369,
+    "name": "탕수만두",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 370,
+    "name": "간풍계",
+    "Category": "china",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 20000,
+    "description": "웍의 불맛이 살아있는 대중적인 중식 메뉴."
+  },
+  {
+    "id": 371,
+    "name": "하와이안 피자",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "bread",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "오븐에 구워 치즈와 토핑의 조화를 즐기는 정통 피자."
+  },
+  {
+    "id": 372,
+    "name": "치킨 시저 샐러드",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "신선한 채소에 치즈·드레싱을 곁들인 가벼운 한 접시."
+  },
+  {
+    "id": 373,
+    "name": "피쉬 타코",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 374,
+    "name": "베지테리언 피자",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "bread",
+    "meat": "vegan",
+    "price": 20000,
+    "description": "오븐에 구워 치즈와 토핑의 조화를 즐기는 정통 피자."
+  },
+  {
+    "id": 375,
+    "name": "카프레제 샐러드",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 9999,
+    "description": "신선한 채소에 치즈·드레싱을 곁들인 가벼운 한 접시."
+  },
+  {
+    "id": 376,
+    "name": "부리또",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 20000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 377,
+    "name": "바질 토마토 수프",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 20000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 378,
+    "name": "치킨 아보카도 샐러드",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 30000,
+    "description": "신선한 채소에 치즈·드레싱을 곁들인 가벼운 한 접시."
+  },
+  {
+    "id": 379,
+    "name": "비프 퀘사디야",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 30000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 380,
+    "name": "터키 베이컨 클럽",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 20000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 381,
+    "name": "연어 아보카도 샐러드",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "신선한 채소에 치즈·드레싱을 곁들인 가벼운 한 접시."
+  },
+  {
+    "id": 382,
+    "name": "티본 스테이크",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 10000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 383,
+    "name": "치즈버거",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "bread",
+    "meat": "pig",
+    "price": 9999,
+    "description": "직화향 패티와 신선한 채소가 어우러진 버거."
+  },
+  {
+    "id": 384,
+    "name": "그릴드 치즈",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 30000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 385,
+    "name": "터키 샌드위치",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "bread",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "담백한 빵 사이에 고기와 채소를 넣은 간편식."
+  },
+  {
+    "id": 386,
+    "name": "볼로네제",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 387,
+    "name": "치킨 부리또",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 20000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 388,
+    "name": "어니언 링",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 10000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 389,
+    "name": "치즈 오믈렛",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 390,
+    "name": "버섯 크림 리조토",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "rice",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "이탈리아식 쌀요리로 크리미한 식감이 특징."
+  },
+  {
+    "id": 391,
+    "name": "시칠리아나 피자",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "bread",
+    "meat": "meatguiter",
+    "price": 9999,
+    "description": "오븐에 구워 치즈와 토핑의 조화를 즐기는 정통 피자."
+  },
+  {
+    "id": 392,
+    "name": "토마호크 스테이크",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 30000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 393,
+    "name": "포터하우스 스테이크",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 10000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 394,
+    "name": "치킨 파마산",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 20000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 395,
+    "name": "미트로프 플레이트",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 396,
+    "name": "바질 치킨 파니니",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "bread",
+    "meat": "chicken",
+    "price": 30000,
+    "description": "담백한 빵 사이에 고기와 채소를 넣은 간편식."
+  },
+  {
+    "id": 397,
+    "name": "스테이크 파스타",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "cow",
+    "price": 30000,
+    "description": "소스와 면의 밸런스가 좋은 이탈리안 파스타."
+  },
+  {
+    "id": 398,
+    "name": "바질 토마토 수프",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 10000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 399,
+    "name": "치킨 스트립",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 400,
+    "name": "토마토 브루스케타",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 401,
+    "name": "봉골레 파스타",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "소스와 면의 밸런스가 좋은 이탈리안 파스타."
+  },
+  {
+    "id": 402,
+    "name": "로스트 치킨",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 403,
+    "name": "갈릭 브레드",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "bread",
+    "meat": "vegan",
+    "price": 30000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 404,
+    "name": "미트로프 플레이트",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 20000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 405,
+    "name": "토마토 브루스케타",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 30000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 406,
+    "name": "리코타 팬케이크",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 407,
+    "name": "치킨 스트립",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 408,
+    "name": "콤비네이션 피자",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "bread",
+    "meat": "cow",
+    "price": 30000,
+    "description": "오븐에 구워 치즈와 토핑의 조화를 즐기는 정통 피자."
+  },
+  {
+    "id": 409,
+    "name": "모짜렐라 카프레제",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 30000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 410,
+    "name": "필리 치즈스테이크",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 9999,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 411,
+    "name": "갈릭 쉬림프",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 9999,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 412,
+    "name": "토마토 수프",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 9999,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 413,
+    "name": "루벤 샌드위치",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "bread",
+    "meat": "cow",
+    "price": 30000,
+    "description": "담백한 빵 사이에 고기와 채소를 넣은 간편식."
+  },
+  {
+    "id": 414,
+    "name": "트러플 버거",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "bread",
+    "meat": "cow",
+    "price": 9999,
+    "description": "직화향 패티와 신선한 채소가 어우러진 버거."
+  },
+  {
+    "id": 415,
+    "name": "로스트 치킨",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 416,
+    "name": "립아이 스테이크",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 9999,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 417,
+    "name": "새우 크림 파스타",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "noodle",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "소스와 면의 밸런스가 좋은 이탈리안 파스타."
+  },
+  {
+    "id": 418,
+    "name": "허니 버터 브레드",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "bread",
+    "meat": "chicken",
+    "price": 30000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 419,
+    "name": "오믈렛",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 420,
+    "name": "디아볼라 피자",
+    "Category": "usa",
+    "spicy": "hot",
+    "rice": "bread",
+    "meat": "pig",
+    "price": 20000,
+    "description": "오븐에 구워 치즈와 토핑의 조화를 즐기는 정통 피자."
+  },
+  {
+    "id": 421,
+    "name": "치킨 나초",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 30000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 422,
+    "name": "해산물 토마토 파스타",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "pig",
+    "price": 20000,
+    "description": "소스와 면의 밸런스가 좋은 이탈리안 파스타."
+  },
+  {
+    "id": 423,
+    "name": "크로크무슈",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 30000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 424,
+    "name": "포크 타코",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 30000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 425,
+    "name": "팬케이크",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 9999,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 426,
+    "name": "라자냐",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 20000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 427,
+    "name": "터키 베이컨 클럽",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 9999,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 428,
+    "name": "토마토 수프",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 9999,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 429,
+    "name": "포크 타코",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 30000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 430,
+    "name": "시금치 베이컨 샐러드",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 9999,
+    "description": "신선한 채소에 치즈·드레싱을 곁들인 가벼운 한 접시."
+  },
+  {
+    "id": 431,
+    "name": "안심 스테이크",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 10000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 432,
+    "name": "퀘사디야",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 433,
+    "name": "나폴리 피자",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "bread",
+    "meat": "cow",
+    "price": 10000,
+    "description": "오븐에 구워 치즈와 토핑의 조화를 즐기는 정통 피자."
+  },
+  {
+    "id": 434,
+    "name": "구운 치킨 샐러드",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "신선한 채소에 치즈·드레싱을 곁들인 가벼운 한 접시."
+  },
+  {
+    "id": 435,
+    "name": "치즈 나초",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 9999,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 436,
+    "name": "치폴레 볼",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 437,
+    "name": "알리오 올리오",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 30000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 438,
+    "name": "치즈 스틱",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 9999,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 439,
+    "name": "그라탕",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 20000,
+    "description": "국물 맛이 깊고 진한 한국식 따끈한 한상."
+  },
+  {
+    "id": 440,
+    "name": "아라비아타",
+    "Category": "usa",
+    "spicy": "hot",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 20000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 441,
+    "name": "브루스케타",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 20000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 442,
+    "name": "콥 샐러드",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "신선한 채소에 치즈·드레싱을 곁들인 가벼운 한 접시."
+  },
+  {
+    "id": 443,
+    "name": "까르보나라",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 20000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 444,
+    "name": "웨지 포테이토",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 10000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 445,
+    "name": "비프 타코",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 30000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 446,
+    "name": "콰트로 포르마지",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 20000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 447,
+    "name": "프렌치 토스트",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "bread",
+    "meat": "cow",
+    "price": 30000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 448,
+    "name": "연어 스테이크",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 9999,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 449,
+    "name": "감바스 알 아히요",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 30000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 450,
+    "name": "구운 치킨 샐러드",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "신선한 채소에 치즈·드레싱을 곁들인 가벼운 한 접시."
+  },
+  {
+    "id": 451,
+    "name": "슈림프 케사디야",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 9999,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 452,
+    "name": "바질 페스토 파스타",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "cow",
+    "price": 9999,
+    "description": "소스와 면의 밸런스가 좋은 이탈리안 파스타."
+  },
+  {
+    "id": 453,
+    "name": "미트볼 서브",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "bread",
+    "meat": "pig",
+    "price": 10000,
+    "description": "담백한 빵 사이에 고기와 채소를 넣은 간편식."
+  },
+  {
+    "id": 454,
+    "name": "에그 베네딕트",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 10000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 455,
+    "name": "치킨 버거",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "bread",
+    "meat": "chicken",
+    "price": 30000,
+    "description": "직화향 패티와 신선한 채소가 어우러진 버거."
+  },
+  {
+    "id": 456,
+    "name": "프렌치 딥 샌드위치",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "bread",
+    "meat": "pig",
+    "price": 9999,
+    "description": "담백한 빵 사이에 고기와 채소를 넣은 간편식."
+  },
+  {
+    "id": 457,
+    "name": "치즈 나초",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 30000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 458,
+    "name": "연어 스테이크",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 9999,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 459,
+    "name": "쉬림프 타코",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 10000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 460,
+    "name": "퀴노아 샐러드",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 20000,
+    "description": "신선한 채소에 치즈·드레싱을 곁들인 가벼운 한 접시."
+  },
+  {
+    "id": 461,
+    "name": "시금치 베이컨 샐러드",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "신선한 채소에 치즈·드레싱을 곁들인 가벼운 한 접시."
+  },
+  {
+    "id": 462,
+    "name": "뉴욕 스트립 스테이크",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 10000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 463,
+    "name": "스파이시 치킨 버거",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "bread",
+    "meat": "chicken",
+    "price": 20000,
+    "description": "직화향 패티와 신선한 채소가 어우러진 버거."
+  },
+  {
+    "id": 464,
+    "name": "클램 차우더",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 10000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 465,
+    "name": "어니언 링",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 9999,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 466,
+    "name": "풀드 포크",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 30000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 467,
+    "name": "푸타네스카",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 30000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 468,
+    "name": "크리스피 치킨 샐러드",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "신선한 채소에 치즈·드레싱을 곁들인 가벼운 한 접시."
+  },
+  {
+    "id": 469,
+    "name": "감자튀김",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 10000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 470,
+    "name": "치킨 타코",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 30000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 471,
+    "name": "아마트리치아나",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 9999,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 472,
+    "name": "허니 버터 브레드",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "bread",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 473,
+    "name": "라구 파스타",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "noodle",
+    "meat": "cow",
+    "price": 20000,
+    "description": "소스와 면의 밸런스가 좋은 이탈리안 파스타."
+  },
+  {
+    "id": 474,
+    "name": "미네스트로네",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 475,
+    "name": "칠리 치즈 프라이",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 20000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 476,
+    "name": "미네스트로네",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 10000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 477,
+    "name": "치킨 나초",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 478,
+    "name": "갈릭 쉬림프",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 20000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 479,
+    "name": "비프 부리또",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "cow",
+    "price": 20000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 480,
+    "name": "바질 치킨 파니니",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "bread",
+    "meat": "chicken",
+    "price": 30000,
+    "description": "담백한 빵 사이에 고기와 채소를 넣은 간편식."
+  },
+  {
+    "id": 481,
+    "name": "BLT 샌드위치",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "bread",
+    "meat": "chicken",
+    "price": 9999,
+    "description": "담백한 빵 사이에 고기와 채소를 넣은 간편식."
+  },
+  {
+    "id": 482,
+    "name": "치폴레 치킨 샐러드",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 20000,
+    "description": "신선한 채소에 치즈·드레싱을 곁들인 가벼운 한 접시."
+  },
+  {
+    "id": 483,
+    "name": "리코타 팬케이크",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 20000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 484,
+    "name": "치킨 텐더 샐러드",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "신선한 채소에 치즈·드레싱을 곁들인 가벼운 한 접시."
+  },
+  {
+    "id": 485,
+    "name": "치폴레 치킨 샐러드",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "신선한 채소에 치즈·드레싱을 곁들인 가벼운 한 접시."
+  },
+  {
+    "id": 486,
+    "name": "베이컨 에그 샌드위치",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "bread",
+    "meat": "cow",
+    "price": 9999,
+    "description": "담백한 빵 사이에 고기와 채소를 넣은 간편식."
+  },
+  {
+    "id": 487,
+    "name": "베이컨치즈버거",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "bread",
+    "meat": "vegan",
+    "price": 30000,
+    "description": "직화향 패티와 신선한 채소가 어우러진 버거."
+  },
+  {
+    "id": 488,
+    "name": "치킨 퀘사디야",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 10000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 489,
+    "name": "포테이토 베이컨 피자",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "bread",
+    "meat": "chicken",
+    "price": 30000,
+    "description": "오븐에 구워 치즈와 토핑의 조화를 즐기는 정통 피자."
+  },
+  {
+    "id": 490,
+    "name": "파니니",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "bread",
+    "meat": "meatguiter",
+    "price": 9999,
+    "description": "담백한 빵 사이에 고기와 채소를 넣은 간편식."
+  },
+  {
+    "id": 491,
+    "name": "클래식 버거",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "bread",
+    "meat": "pig",
+    "price": 20000,
+    "description": "직화향 패티와 신선한 채소가 어우러진 버거."
+  },
+  {
+    "id": 492,
+    "name": "치킨 텐더 샐러드",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "guiter",
+    "meat": "chicken",
+    "price": 30000,
+    "description": "신선한 채소에 치즈·드레싱을 곁들인 가벼운 한 접시."
+  },
+  {
+    "id": 493,
+    "name": "그릭 샐러드",
+    "Category": "usa",
+    "spicy": "mild",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 9999,
+    "description": "신선한 채소에 치즈·드레싱을 곁들인 가벼운 한 접시."
+  },
+  {
+    "id": 494,
+    "name": "베이컨 오믈렛",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 20000,
+    "description": "서양식으로 조리된 풍미 가득한 메뉴."
+  },
+  {
+    "id": 495,
+    "name": "터키 클럽 샌드위치",
+    "Category": "usa",
+    "spicy": "medium",
+    "rice": "bread",
+    "meat": "cow",
+    "price": 20000,
+    "description": "담백한 빵 사이에 고기와 채소를 넣은 간편식."
+  },
+  {
+    "id": 496,
+    "name": "LA갈비",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 20000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 497,
+    "name": "갈비찜",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "pig",
+    "price": 9999,
+    "description": "불맛과 양념의 조화가 매력인 한국식 메인."
+  },
+  {
+    "id": 498,
+    "name": "갈치구이",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 10000,
+    "description": "불맛과 양념의 조화가 매력인 한국식 메인."
+  },
+  {
+    "id": 499,
+    "name": "고기산적",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "vegan",
+    "price": 30000,
+    "description": "한국에서 널리 즐기는 대표 한식 메뉴."
+  },
+  {
+    "id": 500,
+    "name": "고등어구이",
+    "Category": "korea",
+    "spicy": "medium",
+    "rice": "guiter",
+    "meat": "meatguiter",
+    "price": 30000,
+    "description": "불맛과 양념의 조화가 매력인 한국식 메인."
+  }
+]
