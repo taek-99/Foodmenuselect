@@ -1,7 +1,7 @@
-import { Container, } from "react-bootstrap";
+import { Col, Container, Row, } from "react-bootstrap";
 import ToggleButtons from "./ToggleButtons";
 import type { Filters } from "../Types/food";
-
+import "./category.css"
 
 interface CategoryProps {
   value: Filters;
@@ -17,8 +17,9 @@ function Category ({ value, onChange }: CategoryProps) {
     (val: Filters[K]) => onChange({ ...value, [key]: val });
 
     return (
-        <Container>
-
+        <Container className="main">
+            <Row className="g-3">
+            <Col xs={12} md={6} lg={4}>
             <ToggleButtons
                 label="카테고리"
                 idPrefix="foodtype"
@@ -33,7 +34,9 @@ function Category ({ value, onChange }: CategoryProps) {
                 }
                 variant="secondary"
             />
-
+            </Col>
+            
+            <Col xs={12} md={6} lg={4}>
             <ToggleButtons
                 label="맵기"
                 idPrefix="spicy"
@@ -47,7 +50,9 @@ function Category ({ value, onChange }: CategoryProps) {
                 }
                 variant="secondary"
             />
+            </Col>
 
+            <Col xs={12} md={6} lg={4}>
             <ToggleButtons
                 label="주식"
                 idPrefix="riceandnoolde"
@@ -62,7 +67,9 @@ function Category ({ value, onChange }: CategoryProps) {
                 }
                 variant="secondary"
             />
+            </Col>
 
+            <Col xs={12} md={6} lg={4}>
             <ToggleButtons
                 label="뭔 고기"
                 idPrefix="typeofmeat"
@@ -78,7 +85,9 @@ function Category ({ value, onChange }: CategoryProps) {
                 }
                 variant="secondary"
             />
+            </Col>
 
+            <Col xs={12} md={6} lg={4}>
             <ToggleButtons
                 label="가격대"
                 idPrefix="averageprice"
@@ -93,6 +102,8 @@ function Category ({ value, onChange }: CategoryProps) {
                 }
                 variant="secondary"
             />
+            </Col>
+            </Row>
         </Container>
     );
 }

@@ -4,6 +4,8 @@ import FoodList from "../Component/FoodList";
 import TopNavBar from "../Section/TopNavBar"
 import { Button, Container } from "react-bootstrap";
 import type { Filters } from "../Types/food";
+import Main from "../Section/Main";
+import "./home.css"
 
 
 function Home(){
@@ -20,7 +22,7 @@ function Home(){
     return(
         <Container>
             <TopNavBar/>
-            <h1>밥메추</h1>
+            <Main/>
             <Category value={filters} onChange={setFilters}/>
             <Button variant="primary" onClick={() => setSearchKey((prev) => prev + 1)}>
                 검색 시작
