@@ -1,9 +1,10 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import Category from "../Component/Category";
 import FoodList from "../Component/FoodList";
 import TopNavBar from "../Section/TopNavBar"
-import { Button } from "react-bootstrap";
+import { Button, Container } from "react-bootstrap";
 import type { Filters } from "../Types/food";
+
 
 function Home(){
   const [filters, setFilters] = useState<Filters>({
@@ -16,16 +17,8 @@ function Home(){
 
   const [searchKey, setSearchKey] = useState(0);
 
-    useEffect(() => {
-    console.log("현재 선택된 필터:", filters);
-  }, [filters]);
-
-    useEffect(() =>{
-      console.log("횟수", searchKey)
-    }, [searchKey])
-
     return(
-        <div>
+        <Container>
             <TopNavBar/>
             <h1>밥메추</h1>
             <Category value={filters} onChange={setFilters}/>
@@ -33,7 +26,7 @@ function Home(){
                 검색 시작
             </Button>
             <FoodList filters={filters} searchKey={searchKey}/>
-        </div>
+        </Container>
     );
 }
 

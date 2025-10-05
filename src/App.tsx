@@ -8,6 +8,7 @@ import Layout from "./Layout";
 import "react-bootstrap"
 import 'bootstrap/dist/css/bootstrap.min.css'
 import Login from "./Pages/Login";
+import FoodMap from "./Pages/FoodMap";
 
 function App() {
 
@@ -17,7 +18,7 @@ function App() {
         <Route path='/' element={<Layout/>}>
           <Route index element={<Home/>}></Route>
           <Route path="/login" element={<Login/>}></Route>
-
+          <Route path="/foodmap" element={<FoodMap/>}></Route>
         </Route>
       </Routes>
     </Router>
