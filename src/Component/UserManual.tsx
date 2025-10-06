@@ -3,11 +3,11 @@ import { Button } from "react-bootstrap";
 
 function UserManual() {
 
-    const handleclick = ():void => {
+    const manualhandleclick = ():void => {
         alert("김성진")
     }
     return (
-        <Button onClick={handleclick}>
+        <Button onClick={manualhandleclick}>
             사용 설명서
         </Button>
     );
