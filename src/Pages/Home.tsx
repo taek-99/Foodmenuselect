@@ -6,6 +6,7 @@ import { Button, Container } from "react-bootstrap";
 import type { Filters } from "../Types/food";
 import Main from "../Section/Main";
 import "./home.css"
+import UserManual from "../Component/UserManual";
 
 
 function Home(){
@@ -23,11 +24,14 @@ function Home(){
         <Container>
             <TopNavBar/>
             <Main/>
+            <UserManual/>
             <Category value={filters} onChange={setFilters}/>
+            <div className="content">
             <Button variant="primary" onClick={() => setSearchKey((prev) => prev + 1)}>
                 검색 시작
             </Button>
             <FoodList filters={filters} searchKey={searchKey}/>
+            </div>
         </Container>
     );
 }
