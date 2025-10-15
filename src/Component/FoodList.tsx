@@ -61,7 +61,7 @@ function FoodList({filters, searchKey}: FoodListProps) {
             <ul>
                 {viewData.map((f) => (
                     <li key={f.id}>
-                        <Link to={`/foodmap/${f.name}`}>{f.name}</Link>
+                        <Link to={`/${f.name}`}>{f.name}</Link>
                     </li>
                 ))}
             </ul>

@@ -4,7 +4,7 @@ import { Button } from "react-bootstrap";
 function UserManual() {
 
     const manualhandleclick = ():void => {
-        alert("김성진")
+        alert("알아서 잘 사용하쇼")
     }
     return (
         <Button onClick={manualhandleclick}>

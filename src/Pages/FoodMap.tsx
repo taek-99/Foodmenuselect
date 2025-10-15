@@ -1,6 +1,8 @@
 import { useEffect, useRef } from "react";
 import { Container } from "react-bootstrap";
 import { useParams } from "react-router-dom";
+import TopNavBar from "../Section/TopNavBar";
+import Main from "../Section/Main";
 
 declare global {
   interface Window {
@@ -32,7 +34,8 @@ function FoodMap() {
 
     return (
         <Container>
-            <h1>음식 상세 페이지</h1>
+            <TopNavBar/>
+            <Main/>
             <h2>{name} 지도다</h2>  
 
             <div
