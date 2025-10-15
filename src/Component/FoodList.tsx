@@ -1,6 +1,7 @@
 import { useEffect, useState, useTransition } from "react";
 import { Container } from "react-bootstrap";
 import type { FoodItem, Filters, FoodListProps } from "../Types/food";
+import { Link } from "react-router-dom";
 
 
 function FoodList({filters, searchKey}: FoodListProps) {   
@@ -60,7 +61,7 @@ function FoodList({filters, searchKey}: FoodListProps) {
             <ul>
                 {viewData.map((f) => (
                     <li key={f.id}>
-                        <strong>{f.name}</strong>
+                        <Link to={`/foodmap/${f.name}`}>{f.name}</Link>
                     </li>
                 ))}
             </ul>
