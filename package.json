@@ -1,0 +1,30 @@
+{
+  "name": "foodmenuselect",
+  "version": "1.0.0",
+  "description": "- Frontend\r   - Next.js (App Router)\r   - React + TypeScript\r   - Tailwind CSS (UI 스타일링)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taek-99/Foodmenuselect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taek-99/Foodmenuselect/issues"
+  },
+  "homepage": "https://github.com/taek-99/Foodmenuselect#readme",
+  "dependencies": {
+    "next": "^16.0.5",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "24.10.1",
+    "@types/react": "19.2.7",
+    "typescript": "5.9.3"
+  }
+}
