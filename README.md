@@ -1,5 +1,7 @@
 # 밥메추
 
+![alt text](개발일지/assets/image.png)
+
 ## 기술 스택
 
 - Frontend
@@ -42,7 +44,7 @@
   오히려 결정 피로(decision fatigue)가 커진다.
 
 ## 핵심 기능
-
+![alt text](image.png)
 1. 메뉴 추천
    - 취향/상황 간단 선택 → 메뉴 카드 추천
    - 다시 뽑기(Shuffle) 기능
