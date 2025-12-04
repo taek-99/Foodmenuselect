@@ -21,10 +21,10 @@ export default function FoodTypeSelector({ title, items }) {
             />
             <div
               className="
-                px-5 py-2 border border-gray-300 rounded-lg
+                w-[80px] h-[40px] border border-gray-300 rounded-lg
                 peer-checked:bg-indigo-600 peer-checked:text-white
                 peer-checked:border-indigo-600
-                transition
+                transition flex items-center justify-center text-center
               "
             >
               {item.label}

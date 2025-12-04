@@ -22,6 +22,18 @@ export default function Home() {
       { label: "만원", value: 10000 },
       { label: "2만원", value: 20000 },
       { label: "3만원", value: 30000 }
+    ],
+    cookingStyle: [
+       { label: "구이", value: "grill" },
+      { label: "볶음", value: "stir_fry" },
+      { label: "튀김", value: "fried" },
+      { label: "찜/조림", value: "steamed" },
+    ],
+    cuisine: [
+       { label: "한식", value: "korean" },
+      { label: "중식", value: "chinese" },
+      { label: "양식", value: "western" },
+      { label: "일식", value: "japanese" },
     ]
   };
 
