@@ -4,7 +4,9 @@
   "description": "- Frontend\r   - Next.js (App Router)\r   - React + TypeScript\r   - Tailwind CSS (UI 스타일링)",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "build": "next build",
+    "vercel-build": "npm run build"
   },
   "repository": {
     "type": "git",
