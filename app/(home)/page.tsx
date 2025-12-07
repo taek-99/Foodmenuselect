@@ -1,8 +1,10 @@
 "use client"
 
-import { useState } from "react";
+import { Suspense, useState, lazy } from "react";
 import FoodTypeSelector from "../../components/FoodTypeSelector";
 import { supabase } from '../../lib/supabaseClient'
+
+const RandomMenuCard = lazy(() => import("../../components/RandomMenuCard")); // ✅ lazy 로딩
 
 type FilterState = {
   main_type: string[];
@@ -70,6 +72,8 @@ export default function Home() {
   };
 
   const [menus, setMenus] = useState<Menu[]>([]);
+  const [showResult, setShowResult] = useState(false);
+  const [randomMenu, setRandomMenu] = useState<Menu | null>(null);
 
   const fetchMenus = async () => {
     let query = supabase.from("menus").select("*");
@@ -83,8 +87,15 @@ export default function Home() {
     if (error) {
     console.error(error);
   } else {
-    console.log("조회된 메뉴:", data);
     setMenus(data ?? []);   // 🔥 여기서 state에 저장
+
+    if (data && data.length > 0 ) {
+      const index = Math.floor(Math.random() * data.length);
+      setRandomMenu(data[index]); 
+
+      setShowResult(true);
+    }
+
   }
   };
 
@@ -142,12 +153,12 @@ const updateFilter = (type: keyof FilterState, value: string) => {
         검색 시작
       </button>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-6 mb-6">
-        {menus.map(item => (
-          <div key={item.id} className="border p-4 shadow rounded bg-white">
-            <h3 className="text-center font-bold text-lg">{item.name}</h3>
-          </div>
-        ))}
+     <div className="grid grid-cols-1 gap-4 mt-6 mb-6">
+        <Suspense fallback={<h1>매뉴 가져오는 중...</h1>}>
+          {showResult && randomMenu && (
+            <RandomMenuCard menu={randomMenu} />
+          )}
+        </Suspense>
       </div>
     </div>
   );
