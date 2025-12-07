@@ -133,8 +133,11 @@ const updateFilter = (type: keyof FilterState, value: string) => {
     <div className="min-h-screen flex flex-col items-center pt-20 bg-gray-50">
       <h1 className="text-4xl font-bold mb-8 text-gray-800">밥메추</h1>
 
-    <div className="grid grid-cols-3 gap-10 w-full max-w-6xl p-3
-                max-md:grid-cols-2 max-sm:grid-cols-1">
+      <div
+    className="grid gap-10 w-full max-w-6xl p-3
+              grid-cols-1
+              [@media(min-width:650px)]:grid-cols-2
+              [@media(min-width:990px)]:grid-cols-3">
       {Object.entries(types).map(([key, items]) => (
         <FoodTypeSelector 
           key={key} 
