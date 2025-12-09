@@ -74,9 +74,15 @@ export default function Home() {
   const [menus, setMenus] = useState<Menu[]>([]);
   const [showResult, setShowResult] = useState(false);
   const [randomMenu, setRandomMenu] = useState<Menu | null>(null);
+  const [noMenu, setNoMenu] = useState(false)
+  const [loading, setLoading] = useState(false);  
+
 
   const fetchMenus = async () => {
     let query = supabase.from("menus").select("*");
+    setNoMenu(false);
+    setShowResult(false); // 이전 결과 잠깐 숨기고
+    setLoading(true);  
 
     (Object.keys(selected) as (keyof FilterState)[]).forEach((key) => {
       if (selected[key].length > 0) query = query.in(key, selected[key]);
@@ -92,11 +98,16 @@ export default function Home() {
     if (data && data.length > 0 ) {
       const index = Math.floor(Math.random() * data.length);
       setRandomMenu(data[index]); 
-
+      setNoMenu(false);
       setShowResult(true);
+    }else{
+      setNoMenu(true);
+      setShowResult(false);
+      setRandomMenu(null);
     }
 
   }
+    setLoading(false); 
   };
 
   const keyMap: { [key: string]: keyof FilterState } = {
@@ -116,6 +127,9 @@ const [selected, setSelected] = useState<FilterState>({
   cuisine: []
 })
 
+
+
+
 const updateFilter = (type: keyof FilterState, value: string) => {
   setSelected((prev) => {
     const exists = prev[type].includes(value);
@@ -134,10 +148,10 @@ const updateFilter = (type: keyof FilterState, value: string) => {
       <h1 className="text-4xl font-bold mb-8 text-gray-800">밥메추</h1>
 
       <div
-    className="grid gap-10 w-full max-w-6xl p-3
-              grid-cols-1
-              [@media(min-width:650px)]:grid-cols-2
-              [@media(min-width:990px)]:grid-cols-3">
+      className="grid gap-10 w-full max-w-6xl p-3
+                grid-cols-1
+                [@media(min-width:650px)]:grid-cols-2
+                [@media(min-width:990px)]:grid-cols-3">
       {Object.entries(types).map(([key, items]) => (
         <FoodTypeSelector 
           key={key} 
@@ -157,11 +171,17 @@ const updateFilter = (type: keyof FilterState, value: string) => {
       </button>
 
      <div className="grid grid-cols-1 gap-4 mt-6 mb-6">
+        {loading && <h1>메뉴 가져오는 중...</h1>}
+
         <Suspense fallback={<h1>매뉴 가져오는 중...</h1>}>
           {showResult && randomMenu && (
             <RandomMenuCard menu={randomMenu} />
           )}
         </Suspense>
+
+          {noMenu &&(
+            <p className="text-center text-gray-600 mt-5">조건에 맞는 메뉴가 없습니다. 필터를 다시 선택해주세요.</p>
+          )}
       </div>
     </div>
   );
