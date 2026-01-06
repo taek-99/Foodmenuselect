@@ -19,6 +19,7 @@ type Menu = {
   name: string;
   cuisine: string;
   main_type: string;
+  click_count: number
   // 필요하면 meat_type, taste 등 더 추가
 };
 
