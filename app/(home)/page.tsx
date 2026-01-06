@@ -169,6 +169,7 @@ const updateFilter = (type: keyof FilterState, value: string) => {
       >
         검색 시작
       </button>
+      <h1>gdgd</h1>
 
      <div className="grid grid-cols-1 gap-4 mt-6 mb-6">
         {loading && <h1>메뉴 가져오는 중...</h1>}
