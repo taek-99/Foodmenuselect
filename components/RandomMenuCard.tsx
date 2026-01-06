@@ -75,10 +75,6 @@ export default function RandomMenuCard({ menu }: { menu: Menu }) {
           {menu.name}
         </h3>
       </a>
-      {/* 클릭 횟수 표시 */}
-      <p className="text-center text-sm text-gray-500 mt-2">
-        클릭 횟수: {clickCount}
-      </p>
     </div>
   );
 }
